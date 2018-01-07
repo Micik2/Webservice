@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organizations>
+    <organization key="0000000000" parent_key="" description="Uniwersytet im. A. Mickiewicza" level="0"/>
+    <organization key="0500000000" parent_key="0000000000" description="WF" level="1"/>
+    <organization key="0700000000" parent_key="0000000000" description="WMI" level="1"/>
+</organizations>
